@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a94f28bcf1ec0ee27937464df95c777",
+    "revision": "6e4ab22813d81150e864ee5088360a0d",
     "url": "/myPortfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myPortfolio/static/css/4.7369bb08.chunk.css"
   },
   {
-    "revision": "133b814da75a16edf539",
+    "revision": "f761e998e1e8ed7f68d5",
     "url": "/myPortfolio/static/css/main.c20affda.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myPortfolio/static/js/4.4c134cd9.chunk.js"
   },
   {
-    "revision": "133b814da75a16edf539",
-    "url": "/myPortfolio/static/js/main.dd9d4e92.chunk.js"
+    "revision": "f761e998e1e8ed7f68d5",
+    "url": "/myPortfolio/static/js/main.088aba39.chunk.js"
   },
   {
     "revision": "99231bef183bfd87c1b2",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myPortfolio/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "161eb25025f489009189f85b07e8681f",
-    "url": "/myPortfolio/static/media/freelancer1.161eb250.jpeg"
+    "revision": "ce159701895c886bc92ff82e8b741d23",
+    "url": "/myPortfolio/static/media/freelancer1.ce159701.jpeg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -92,11 +92,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myPortfolio/static/media/ves.ca56ce37.jpeg"
   },
   {
-    "revision": "d006b4b98edc701740b0b1daad251bf3",
-    "url": "/myPortfolio/static/media/vjti.d006b4b9.jpeg"
+    "revision": "bf829991325e93b997dbc8e0dbe931e3",
+    "url": "/myPortfolio/static/media/vjti.bf829991.jpeg"
   },
   {
-    "revision": "dfffa7de72b4f2d509202c2b0f9887cd",
-    "url": "/myPortfolio/static/media/zoom.dfffa7de.jpeg"
+    "revision": "f2b44b2e45d995f870d2c5688ab16ad6",
+    "url": "/myPortfolio/static/media/zoom.f2b44b2e.jpeg"
   }
 ]);
